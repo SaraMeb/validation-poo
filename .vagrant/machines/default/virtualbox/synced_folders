@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/admin/Desktop/Validation6/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/admin/Desktop/Validation6","disabled":false,"__vagrantfile":true}}}
